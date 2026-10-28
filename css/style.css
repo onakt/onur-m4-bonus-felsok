@@ -15,9 +15,10 @@ body {
 
 .knapp {
   display: inline-block;
-  background: #1f5fbf
-  color: #fff;
+  background-color: #1f5fbf;
+  color: #ffffff;
   padding: 10px 18px;
+  text-decoration: none;
   border-radius: 6px;
 }
 
